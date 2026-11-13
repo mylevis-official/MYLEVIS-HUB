@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "mylevis-hub": {
+      "type": "http",
+      "url": "<从MyLevis账号中心复制的远程MCP地址>",
+      "headers": {
+        "Authorization": "Bearer <从MyLevis账号中心创建的个人密钥>"
+      }
+    }
+  }
+}
